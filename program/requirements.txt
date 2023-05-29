@@ -1,0 +1,3 @@
+tensorflow==2.12.0
+transunet==1.0.3
+numpy==1.24.3
